@@ -1,2 +1,2 @@
-console.log("console2.js");
-alert("js2");
+console.log("console3.js");
+alert("js23");
