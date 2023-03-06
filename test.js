@@ -1,2 +1,2 @@
-console.log("console.js");
-alert("js");
+console.log("console2.js");
+alert("js2");
